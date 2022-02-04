@@ -1,0 +1,296 @@
+2020-12-06 20:03:16,541 INFO [main] c.m.Glavna [Glavna.java:33] Aplikacija CovidPortal je uspješno pokrenuta!
+2020-12-06 20:03:16,551 INFO [main] c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-06 20:03:16,553 INFO [main] c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2020-12-06 20:03:16,554 INFO [main] c.m.Glavna [Glavna.java:405] Uspješno unesene Bolesti iz datoteke.
+2020-12-06 20:03:16,555 INFO [main] c.m.Glavna [Glavna.java:364] Uspješno unesene Bolesti iz datoteke.
+2020-12-06 20:03:16,557 INFO [main] c.m.Glavna [Glavna.java:322] Uspješno unesene osobe iz datoteke.
+2020-12-06 20:03:16,564 INFO [main] c.m.Glavna [Glavna.java:104] 1. osoba uspješno ispisana.
+2020-12-06 20:03:16,565 INFO [main] c.m.Glavna [Glavna.java:104] 2. osoba uspješno ispisana.
+2020-12-06 20:03:16,566 INFO [main] c.m.Glavna [Glavna.java:104] 3. osoba uspješno ispisana.
+2020-12-06 20:11:40,808 INFO [main] h.j.c.m.Glavna [Glavna.java:33] Aplikacija CovidPortal je uspješno pokrenuta!
+2020-12-06 20:11:40,836 INFO [main] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-06 20:11:40,852 INFO [main] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2020-12-06 20:11:40,858 INFO [main] h.j.c.m.Glavna [Glavna.java:405] Uspješno unesene Bolesti iz datoteke.
+2020-12-06 20:11:40,872 INFO [main] h.j.c.m.Glavna [Glavna.java:364] Uspješno unesene Bolesti iz datoteke.
+2020-12-06 20:11:40,886 INFO [main] h.j.c.m.Glavna [Glavna.java:322] Uspješno unesene osobe iz datoteke.
+2020-12-06 20:11:40,893 INFO [main] h.j.c.m.Glavna [Glavna.java:104] 1. osoba uspješno ispisana.
+2020-12-06 20:11:40,894 INFO [main] h.j.c.m.Glavna [Glavna.java:104] 2. osoba uspješno ispisana.
+2020-12-06 20:11:40,894 INFO [main] h.j.c.m.Glavna [Glavna.java:104] 3. osoba uspješno ispisana.
+2020-12-16 16:33:55,130 INFO [main] h.j.c.m.Glavna [Glavna.java:33] Aplikacija CovidPortal je uspješno pokrenuta!
+2020-12-16 16:33:55,155 INFO [main] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-16 16:33:55,157 INFO [main] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2020-12-16 16:33:55,159 INFO [main] h.j.c.m.Glavna [Glavna.java:405] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 16:33:55,160 INFO [main] h.j.c.m.Glavna [Glavna.java:364] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 16:33:55,163 INFO [main] h.j.c.m.Glavna [Glavna.java:322] Uspješno unesene osobe iz datoteke.
+2020-12-16 16:33:55,172 INFO [main] h.j.c.m.Glavna [Glavna.java:104] 1. osoba uspješno ispisana.
+2020-12-16 16:33:55,173 INFO [main] h.j.c.m.Glavna [Glavna.java:104] 2. osoba uspješno ispisana.
+2020-12-16 16:33:55,173 INFO [main] h.j.c.m.Glavna [Glavna.java:104] 3. osoba uspješno ispisana.
+2020-12-16 16:33:55,173 INFO [main] h.j.c.m.Glavna [Glavna.java:104] 4. osoba uspješno ispisana.
+2020-12-16 16:33:55,174 INFO [main] h.j.c.m.Glavna [Glavna.java:104] 5. osoba uspješno ispisana.
+2020-12-16 16:33:55,174 INFO [main] h.j.c.m.Glavna [Glavna.java:104] 6. osoba uspješno ispisana.
+2020-12-16 16:36:38,996 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-16 16:37:02,379 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-16 16:41:10,931 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-16 16:41:10,936 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2020-12-16 16:41:10,937 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:405] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 16:41:10,940 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:322] Uspješno unesene osobe iz datoteke.
+2020-12-16 16:41:33,339 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-16 16:41:33,340 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2020-12-16 16:41:33,341 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:405] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 16:41:33,342 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:322] Uspješno unesene osobe iz datoteke.
+2020-12-16 16:55:11,638 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-16 16:56:50,414 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-16 16:56:54,062 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2020-12-16 16:57:01,521 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2020-12-16 16:57:01,522 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:405] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 16:57:08,764 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2020-12-16 16:57:08,765 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:405] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 16:57:13,615 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2020-12-16 16:57:13,617 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:364] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 16:57:25,997 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-16 16:57:25,998 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2020-12-16 16:57:25,999 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:405] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 16:57:26,001 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:322] Uspješno unesene osobe iz datoteke.
+2020-12-16 17:14:39,564 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-16 17:22:14,849 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-16 17:24:00,742 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-16 17:24:19,039 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-16 17:24:19,043 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2020-12-16 17:24:19,048 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:405] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 17:38:20,590 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-16 17:38:38,726 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-16 17:38:38,732 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2020-12-16 17:38:38,736 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:405] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 17:39:23,854 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-16 17:39:23,858 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2020-12-16 17:39:23,860 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:405] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 17:42:15,894 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-16 17:42:45,402 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-16 17:42:45,403 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2020-12-16 17:42:45,405 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:405] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 17:42:45,407 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:322] Uspješno unesene osobe iz datoteke.
+2020-12-16 18:11:39,015 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2020-12-16 18:11:39,020 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-16 18:11:39,021 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:405] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 18:11:39,023 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:364] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 18:14:27,384 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2020-12-16 18:14:27,388 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-16 18:14:27,390 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:405] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 18:14:27,391 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:364] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 18:14:50,270 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-16 18:14:50,271 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2020-12-16 18:14:50,272 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:405] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 18:14:50,274 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:322] Uspješno unesene osobe iz datoteke.
+2020-12-16 18:16:04,746 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2020-12-16 18:16:04,747 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-16 18:16:04,748 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:405] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 18:16:04,748 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:364] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 18:16:31,584 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-16 18:16:31,585 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2020-12-16 18:16:31,586 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:405] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 18:16:31,587 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:322] Uspješno unesene osobe iz datoteke.
+2020-12-16 18:16:42,472 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2020-12-16 18:16:42,473 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-16 18:16:42,473 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:405] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 18:16:42,474 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:364] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 18:17:06,520 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-16 18:17:06,520 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2020-12-16 18:17:06,520 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:405] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 18:17:06,521 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:322] Uspješno unesene osobe iz datoteke.
+2020-12-16 18:17:58,270 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2020-12-16 18:17:58,274 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-16 18:17:58,276 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:405] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 18:17:58,277 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:364] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 18:30:35,876 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-16 18:30:35,880 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2020-12-16 18:30:35,881 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:405] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 18:30:35,886 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:322] Uspješno unesene osobe iz datoteke.
+2020-12-16 18:33:19,596 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-16 18:33:19,600 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2020-12-16 18:33:19,601 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:405] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 18:33:19,603 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:364] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 18:33:19,606 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:322] Uspješno unesene osobe iz datoteke.
+2020-12-16 18:34:39,363 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-16 18:34:39,367 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2020-12-16 18:34:39,368 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:405] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 18:34:39,370 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:364] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 18:34:39,373 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:322] Uspješno unesene osobe iz datoteke.
+2020-12-16 18:34:57,424 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2020-12-16 18:34:57,425 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-16 18:34:57,426 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:405] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 18:34:57,427 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:364] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 18:37:16,754 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2020-12-16 18:37:16,758 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-16 18:37:16,760 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:405] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 18:37:16,761 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:364] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 18:39:14,473 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2020-12-16 18:39:14,477 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-16 18:39:14,479 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:405] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 18:39:14,480 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:364] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 18:43:40,104 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2020-12-16 18:43:40,108 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-16 18:43:40,110 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:405] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 18:43:40,111 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:364] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 18:46:05,107 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2020-12-16 18:46:05,111 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-16 18:46:05,112 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:405] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 18:46:05,114 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:364] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 18:46:21,413 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2020-12-16 18:46:21,416 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-16 18:46:21,418 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:405] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 18:46:21,419 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:364] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 18:46:58,136 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2020-12-16 18:46:58,140 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-16 18:46:58,141 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:405] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 18:46:58,143 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:364] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 18:47:54,586 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2020-12-16 18:47:54,590 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-16 18:47:54,592 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:405] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 18:47:54,593 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:364] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 18:48:15,716 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2020-12-16 18:48:15,719 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-16 18:48:15,721 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:405] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 18:48:15,722 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:364] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 18:54:48,909 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-16 18:54:48,913 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2020-12-16 18:54:48,914 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:405] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 18:54:48,916 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:364] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 18:54:48,918 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:322] Uspješno unesene osobe iz datoteke.
+2020-12-16 18:55:39,816 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-16 18:55:39,821 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2020-12-16 18:55:39,822 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:405] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 18:55:39,824 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:364] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 18:55:39,826 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:322] Uspješno unesene osobe iz datoteke.
+2020-12-16 18:56:48,697 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-16 18:56:48,714 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2020-12-16 18:56:48,722 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:405] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 18:56:48,735 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:364] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 18:56:48,743 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:322] Uspješno unesene osobe iz datoteke.
+2020-12-16 18:57:14,190 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2020-12-16 18:57:14,193 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-16 18:57:14,195 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:405] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 18:57:14,196 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:364] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 18:58:00,161 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-16 18:58:00,162 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2020-12-16 18:58:00,162 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:405] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 18:58:00,163 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:364] Uspješno unesene Bolesti iz datoteke.
+2020-12-16 18:58:00,165 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:322] Uspješno unesene osobe iz datoteke.
+2020-12-17 12:39:22,238 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-17 12:48:45,357 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-17 12:49:55,649 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-17 13:33:34,356 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-17 13:37:38,250 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-17 13:38:06,450 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-17 13:38:47,242 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-17 13:39:25,693 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-17 13:39:42,076 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-17 13:43:48,569 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-17 13:44:22,455 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-17 13:54:01,133 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-17 13:54:33,947 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-17 13:55:04,845 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-17 13:56:01,996 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-17 13:56:29,870 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-17 13:57:49,000 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-17 14:00:39,471 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-17 14:01:46,600 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-17 14:02:59,691 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-17 14:03:18,414 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-17 14:23:31,746 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-17 14:24:07,888 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2020-12-17 14:24:46,991 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2021-01-08 14:12:28,467 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2021-01-08 14:12:28,485 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2021-01-08 14:12:28,503 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:405] Uspješno unesene Bolesti iz datoteke.
+2021-01-08 14:12:28,522 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:364] Uspješno unesene Bolesti iz datoteke.
+2021-01-08 15:27:31,865 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2021-01-08 15:27:31,879 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2021-01-08 15:27:31,880 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:405] Uspješno unesene Bolesti iz datoteke.
+2021-01-08 15:27:31,897 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:364] Uspješno unesene Bolesti iz datoteke.
+2021-01-08 15:28:34,095 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2021-01-08 15:28:34,096 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2021-01-08 15:28:34,097 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:405] Uspješno unesene Bolesti iz datoteke.
+2021-01-08 15:28:34,097 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:364] Uspješno unesene Bolesti iz datoteke.
+2021-01-08 15:28:34,108 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:322] Uspješno unesene osobe iz datoteke.
+2021-01-08 15:28:40,723 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2021-01-08 15:28:40,723 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2021-01-08 15:28:40,724 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:405] Uspješno unesene Bolesti iz datoteke.
+2021-01-08 15:28:40,725 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:364] Uspješno unesene Bolesti iz datoteke.
+2021-01-08 15:30:34,497 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2021-01-08 15:30:34,501 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2021-01-08 15:30:34,503 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:405] Uspješno unesene Bolesti iz datoteke.
+2021-01-08 15:30:34,505 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:364] Uspješno unesene Bolesti iz datoteke.
+2021-01-08 16:10:57,528 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2021-01-08 16:10:57,532 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2021-01-08 16:10:57,534 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:405] Uspješno unesene Bolesti iz datoteke.
+2021-01-08 16:10:57,536 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:364] Uspješno unesene Bolesti iz datoteke.
+2021-01-08 16:10:57,539 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:322] Uspješno unesene osobe iz datoteke.
+2021-01-08 16:14:10,508 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2021-01-08 16:14:10,528 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2021-01-08 16:14:10,529 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:405] Uspješno unesene Bolesti iz datoteke.
+2021-01-08 16:14:10,540 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:364] Uspješno unesene Bolesti iz datoteke.
+2021-01-08 16:14:10,550 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:322] Uspješno unesene osobe iz datoteke.
+2021-01-08 16:14:26,720 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2021-01-08 16:14:26,720 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2021-01-08 16:14:26,721 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:405] Uspješno unesene Bolesti iz datoteke.
+2021-01-08 16:14:26,722 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:364] Uspješno unesene Bolesti iz datoteke.
+2021-01-08 16:14:26,723 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:322] Uspješno unesene osobe iz datoteke.
+2021-01-08 16:14:57,804 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2021-01-08 16:14:57,804 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2021-01-08 16:14:57,805 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:405] Uspješno unesene Bolesti iz datoteke.
+2021-01-08 16:14:57,805 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:364] Uspješno unesene Bolesti iz datoteke.
+2021-01-08 16:14:57,807 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:322] Uspješno unesene osobe iz datoteke.
+2021-01-08 16:16:00,944 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2021-01-08 16:16:00,948 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2021-01-08 16:16:00,950 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:405] Uspješno unesene Bolesti iz datoteke.
+2021-01-08 16:16:00,952 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:364] Uspješno unesene Bolesti iz datoteke.
+2021-01-08 16:16:44,108 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2021-01-08 16:16:44,113 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2021-01-08 16:16:44,114 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:405] Uspješno unesene Bolesti iz datoteke.
+2021-01-08 16:16:44,116 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:364] Uspješno unesene Bolesti iz datoteke.
+2021-01-08 16:16:44,118 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:322] Uspješno unesene osobe iz datoteke.
+2021-01-08 16:33:20,404 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2021-01-08 16:35:10,049 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2021-01-08 16:35:10,054 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:364] Uspješno unesene Bolesti iz datoteke.
+2021-01-08 16:35:14,646 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2021-01-08 16:39:30,613 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2021-01-08 16:40:47,030 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2021-01-08 16:41:00,895 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2021-01-08 16:41:03,125 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2021-01-08 16:41:03,126 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2021-01-08 16:41:03,127 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:405] Uspješno unesene Bolesti iz datoteke.
+2021-01-08 16:41:03,128 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:364] Uspješno unesene Bolesti iz datoteke.
+2021-01-08 16:41:03,131 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:322] Uspješno unesene osobe iz datoteke.
+2021-01-08 16:46:03,513 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2021-01-08 16:46:03,518 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2021-01-08 16:46:03,519 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:405] Uspješno unesene Bolesti iz datoteke.
+2021-01-08 16:46:03,521 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:364] Uspješno unesene Bolesti iz datoteke.
+2021-01-08 16:46:03,523 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:322] Uspješno unesene osobe iz datoteke.
+2021-01-09 12:46:53,308 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2021-01-09 12:46:53,341 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2021-01-09 12:46:53,350 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:405] Uspješno unesene Bolesti iz datoteke.
+2021-01-09 12:46:53,365 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:364] Uspješno unesene Bolesti iz datoteke.
+2021-01-09 12:46:53,375 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:322] Uspješno unesene osobe iz datoteke.
+2021-01-09 12:47:05,375 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2021-01-09 12:47:05,376 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:364] Uspješno unesene Bolesti iz datoteke.
+2021-01-09 12:47:07,493 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2021-01-09 12:47:07,493 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:405] Uspješno unesene Bolesti iz datoteke.
+2021-01-09 12:47:09,874 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2021-01-09 12:47:11,799 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2021-01-09 12:47:46,191 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2021-01-09 12:47:46,195 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2021-01-09 12:47:46,196 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:405] Uspješno unesene Bolesti iz datoteke.
+2021-01-09 12:47:46,198 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:364] Uspješno unesene Bolesti iz datoteke.
+2021-01-09 12:47:46,200 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:322] Uspješno unesene osobe iz datoteke.
+2021-01-09 12:47:48,186 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2021-01-09 12:47:48,186 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:364] Uspješno unesene Bolesti iz datoteke.
+2021-01-09 12:47:49,252 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2021-01-09 12:47:49,253 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:405] Uspješno unesene Bolesti iz datoteke.
+2021-01-09 12:47:50,796 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:444] Uspješno uneseni simptomi iz datoteke.
+2021-01-09 12:47:51,908 INFO [JavaFX Application Thread] h.j.c.m.Glavna [Glavna.java:473] Uspješno unesene županije iz datoteke
+2021-01-28 14:40:21,535 INFO [main] h.j.c.m.Glavna [Glavna.java:41] Aplikacija CovidPortal je uspješno pokrenuta!
+2021-01-28 14:40:21,615 ERROR [main] h.j.c.m.Glavna [Glavna.java:78] dat\osobe.txt (The system cannot find the file specified)
+2021-01-28 14:40:56,474 INFO [main] h.j.c.m.Glavna [Glavna.java:37] Aplikacija CovidPortal je uspješno pokrenuta!
+2021-01-28 14:40:56,485 ERROR [main] h.j.c.m.Glavna [Glavna.java:74] dat\osobe.txt (The system cannot find the file specified)
+2022-02-03 21:29:33,454 INFO [main] h.j.c.m.Glavna [Glavna.java:44] Aplikacija CovidPortal je uspješno pokrenuta!
+2022-02-03 21:29:33,461 ERROR [main] h.j.c.m.Glavna [Glavna.java:81] dat\osobe.txt (The system cannot find the file specified)

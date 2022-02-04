@@ -1,0 +1,3 @@
+JDBC URL: jdbc:h2:~/covid
+Username: student
+Password: student

@@ -1,0 +1,4 @@
+.text-field {
+  -fx-text-box-border: #ff0000;
+  -fx-focus-color: #ff0000;
+}

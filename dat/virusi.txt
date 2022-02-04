@@ -1,0 +1,9 @@
+21
+COVID-19
+1,2,3
+22
+Svinjska Gripa (H1N1)
+1,2
+23
+HERPES
+2,3

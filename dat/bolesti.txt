@@ -1,0 +1,12 @@
+1
+Prehlada
+1
+2
+Upala Pluća
+2
+3
+Upala Sinusa
+3
+4
+Rak pluća
+1,2
